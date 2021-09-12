@@ -1,11 +1,11 @@
 
-##The Sparks Foundation
+The Sparks Foundation
 
-##GRIPSEPTEMBER21
+GRIPSEPTEMBER21
 
-##Task 1: Prediction using supervised ML.
+Task 1: Prediction using supervised ML.
 
-#This Repository is made for the submission of Task 1 for GRIP september 21.
+This Repository is made for the submission of Task 1 for GRIP september 21.
 
 The Repository consists:
 
